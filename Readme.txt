@@ -8,4 +8,4 @@ file directory it finds the images in, and will advise the user where those file
 Project requires Base Python, NumPy and Pillow to function in addition to being
 placed in a folder with the target .png files
 
-Video Documentation at https://youtu.be/BytUwkK_Um4
+Video Documentation at https://youtu.be/eSx9voO_G-E
